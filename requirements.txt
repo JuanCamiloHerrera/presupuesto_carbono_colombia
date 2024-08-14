@@ -1,6 +1,5 @@
 dash
 numpy
 pandas
-plotly
 gunicorn
 dash-tools
