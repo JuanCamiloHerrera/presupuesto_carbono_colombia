@@ -1,10 +1,5 @@
-dash
-numpy
-pandas
+dash==2.17.0
+numpy==2.0.1
+pandas==2.2.2
 gunicorn
 dash-tools
-pip==24.2
-setuptools>=58.0.0
-docopt==0.6.2  # Replace with the latest compatible version if needed
-Flask==2.1.1
-requests==2.26.0
